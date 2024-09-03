@@ -3,3 +3,4 @@ Git Rebase Vs Merge
 A Commit 1
 B Commit 2
 C Commit 5
+D Commit 6
